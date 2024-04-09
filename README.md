@@ -1,5 +1,7 @@
 # Working with legacy dotnet on Apple M chips 
 
+This guide is for developers working on a legacy .NET framework stack who want to use an Apple M based machine.
+
 1. Parallels
 
 Download and install parallels here https://www.parallels.com/products/desktop/download/
@@ -20,7 +22,7 @@ TFS team explorer is an older version of Visual Studio cut back just for navigat
 
 5. Test your setup (Requires a Build Circle account)
 
-Try and connect to this TFSVC repository, build, and run the .NEt Framework app to test everything is working.
+Try and connect to this TFSVC repository, build, and run the .NET Framework app to test that everything works.
 https://dev.azure.com/buildcircle/legacy-dotnet-application
 
 6. SQL Server
